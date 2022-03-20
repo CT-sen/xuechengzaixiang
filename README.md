@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CT-sen
-- 👀 I’m interested in web study
-- 🌱 I’m currently learning vue.js
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+- this is a html
 - 📫 emial:939608375@qq.com
 
 <!---
